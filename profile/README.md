@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nsustain.com">
-    <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/216895754-f2cf5c28-e096-4bd0-9649-156fe4bdb2ef.png">
+    <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/216895754-f2cf5c28-e096-4bd0-9649-156fe4bdb2ef.png" width="600">
   </a>
 </p>
 

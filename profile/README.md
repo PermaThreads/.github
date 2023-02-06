@@ -9,6 +9,7 @@
 ---
 
 <p align="center">
+  <a href="https://github.com/PermaThreads">
     <img alt="GitHub" src="https://user-images.githubusercontent.com/19341857/216894557-33724559-363a-47f0-aee7-e8ea6ca5b540.svg">
   </a>
   <a href="https://github.com/PermaThreads/.github/blob/main/LICENSE">

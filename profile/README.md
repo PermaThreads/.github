@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nsustain.com">
-    <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/216895754-f2cf5c28-e096-4bd0-9649-156fe4bdb2ef.png" width="600">
+    <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/217137769-5eac3f9a-76c7-4dc8-acc9-3b36a43d64ee.png" width="600">
   </a>
 </p>
 
@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/PermaThreads">
-    <img alt="GitHub" src="https://user-images.githubusercontent.com/19341857/216894557-33724559-363a-47f0-aee7-e8ea6ca5b540.svg">
+    <img alt="GitHub" src="https://user-images.githubusercontent.com/19341857/217138650-b227044c-d22d-47d9-86e8-506d501baba2.svg">
   </a>
   <a href="https://github.com/PermaThreads/.github/blob/main/LICENSE">
-    <img alt="Apache 2.0 License" src="https://user-images.githubusercontent.com/19341857/216894568-0f6fe7d1-f006-4ab9-a35c-31b580d6727a.svg">
+    <img alt="Apache 2.0 License" src="https://user-images.githubusercontent.com/19341857/217138606-272e50a2-c134-4fd9-9daf-7e39beb280a6.svg">
   </a>
 </p>
 

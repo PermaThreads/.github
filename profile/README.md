@@ -1,9 +1,11 @@
 <br>
-
+<!--
+TODO
+- Link the logo to https://PermaThreads.com after launch.
+- Change the badge link to the website repo link
+-->
 <p align="center">
-  <a href="https://nsustain.com">
-    <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/217137769-5eac3f9a-76c7-4dc8-acc9-3b36a43d64ee.png" width="600">
-  </a>
+  <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/217137769-5eac3f9a-76c7-4dc8-acc9-3b36a43d64ee.png" width="600">
 </p>
 
 ---

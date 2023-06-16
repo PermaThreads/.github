@@ -5,7 +5,7 @@ TODO
 - Change the badge link to the website repo link
 -->
 <p align="center">
-  <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/217137769-5eac3f9a-76c7-4dc8-acc9-3b36a43d64ee.png" width="600">
+  <img alt="Logo" src="https://github.com/PermaThreads/.github/assets/19341857/de5394e3-e98c-40ec-bae4-3ed00ab9cd8b" width="600">
 </p>
 
 ---
